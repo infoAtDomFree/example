@@ -2,9 +2,6 @@
 This is example code for DOM FREE, available here: https://github.com/infoAtDomFree/dom-free
 
 ## This sample is runnable from your device after doing a git clone
-You will want to load either index_cjs.html (using Classic Javascript) or index_esm.html (using modern ECMAscript).
-
-
 ```
 git clone https://github.com/infoAtDomFree/example.git
 cd example
@@ -32,7 +29,7 @@ You can see the code that is running in HTML and in lib.js.
 npm run test
 ```
 
-You should 12 successful tests and no failures.
+You should see 12 successful tests and no failures.
 All the code is here for you to read and understand.
 
 Please let us know if you have any questions or concerns.
