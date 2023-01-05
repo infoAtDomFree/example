@@ -1,5 +1,7 @@
 import * as Library from '../lib.js';
 import * as SMS from '../node_modules/@dom-free/dom-free/lib/esm/sms.mjs';
+//const Library = require('../lib');
+//const SMS = require('../node_modules/@dom-free/dom-free/lib/esm/sms.mjs');
 
 let lib;
 let sms;

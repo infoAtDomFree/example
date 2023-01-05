@@ -1,12 +1,15 @@
 # DOM FREE example code
 This is example code for DOM FREE, available here: https://github.com/infoAtDomFree/dom-free
 
+## Preinstall Requirements
+You must have installed both GIT and NodeJs.
+
 ## This sample is runnable from your device after doing a git clone
 ```
 git clone https://github.com/infoAtDomFree/example.git
 cd example
 npm install
-node main.js
+node main.cjs
 ```
 
 This will start a web server running on port 3000. You may have to allow it through your firewall.
